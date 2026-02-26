@@ -1,0 +1,28 @@
+.network-stream-player {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.network-stream-player h1 {
+  color: #333;
+}
+
+.network-stream-player .controls {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.network-stream-player button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin: 0 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.network-stream-player button:hover {
+  background-color: #0056b3;
+}
